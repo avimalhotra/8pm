@@ -137,7 +137,7 @@ h2{ font-size: 72px; line-height: 60px; border-bottom: 10px solid;}
 .graph{ aspect-ratio: 1/1; text-align: center; line-height: 170px;}
 .accordion{ }
 .accordion li{ margin-bottom: 10px; }
-.accordion li a{ line-height: 20px; border: 1px solid #333; display: block; border-radius: 10px; color: #898989; padding: 14px; }
+.accordion li a{ line-height: 20px; border: 1px solid #333; display: block; border-radius: 10px; color: #666; padding: 14px; }
 .accordion li a::after{
     content: '+';
     float: right;
