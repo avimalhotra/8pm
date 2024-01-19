@@ -158,7 +158,7 @@ h2{ font-size: 72px; line-height: 60px; border-bottom: 10px solid;}
 .wrap-10 form input::placeholder{ color: #fff;}
 
 .wrap-11{ background: #7f7f7f; padding: 20px 0;}
-.box{ background: #aeaeae; text-align: center; line-height: 95px; color: #fff; }
+.box{ background: #666; text-align: center; line-height: 95px; color: #fff; }
 
 .wrap-12{ background: #ebebeb; padding: 100px 0; color: #363636; }
 .wrap-12 address{ margin-top: 10px; }
