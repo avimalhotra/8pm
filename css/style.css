@@ -175,7 +175,7 @@ h2{ font-size: 72px; line-height: 60px; border-bottom: 10px solid;}
 .wrap-12 form label *:focus{ outline: none; }
 .wrap-12 form label:focus-within{ border-color: #ca3c3c;}
 
-.wrap-13{ background: #252525; text-align: center;  color: #666; padding: 20px 0;}
+.wrap-13{ background: #252525; text-align: center;  color: #ddd; padding: 20px 0;}
 
 
 /* ipad landscape */
